@@ -1,0 +1,16 @@
+Selamat Malam, Mas Nabil. Ini nomor saya, Faisal JCDS Jogja Batch 1. Maaf ganggu Mas, mau tanya, ini urutannya yang bener seperti apa yaa Mas untuk perihal Hyperparameter Tuning ?
+Urutan-1:
+1. cross validation (benchmark model)
+2. tentukan best model
+3. hyperparameter tuning + cross validation (lagi)
+5. bandingkan best model sebelum dan sesudah hyperparameter tuning pada data validation
+4. predict pada data unseen
+
+Urutan-2:
+1. cross validation (benchmark model)
+2. tentukan best model
+3. prediksi pada data unseen
+4. lakukan hyperparameter tuning best model tersebut
+5. bandingkan best model sebelum dan sesudah hyperparameter tuning pada data unseen
+
+Jadi, saya masih bingung Mas, model sebelum dan sesudah dilakukan hyperparameter tuning itu membandingkan performanya pada data validation atau data unseen yaa Mas ? Terima kasih Mas Nabil
