@@ -39,4 +39,4 @@ Project Organization
 
 Contribute
 ------------
-If you'd like to contribute to Yellow Pages, check out https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction
+If you'd like to contribute to Permeability Prediction, check out https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction
