@@ -13,7 +13,7 @@ How to use
 
 Data Understanding
 ------------
-Dataset dapat di akses pada link berikut: [dataset](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning/blob/main/PhiK.csv)!
+Dataset can be access through this link: [dataset](https://github.com/Divyanshu-ISM/Machine-Learning-Deep-Learning/blob/main/PhiK.csv)!
 
 | Columns                                            | Definition                                                   | 
 | ------------------------------------------------- | ------------------------------------------------------------ |
