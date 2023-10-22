@@ -7,7 +7,7 @@ Build a model for predicting permeability of reservoir rock
 
 How to use
 ------------
-1. Click this [link](https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction/tree/main)!
+1. Click this [streamlit web app](https://permeability-reservoir-rock-prediction-je5meccr384etxyo7jnnsu.streamlit.app/)!
 2. Input your data
 3. Click the predict button!
 
