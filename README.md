@@ -21,10 +21,6 @@ Dataset dapat di akses pada link berikut: [dataset](https://github.com/Divyanshu
 | `Swc` | connate water saturation is the minimum water saturation which would remain adhered to the pores and not become mobile |
 | `Permeability(D)` | measure of the connectivity of pores in the subsurface (Darcy)/kemampuan batuan untuk mengalirkan fluida |
 
-Contribute
-------------
-If you'd like to contribute to Yellow Pages, check out https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction
-
 Project Organization
 ------------
     ├── README.md          <- brief explanation about the project
@@ -39,3 +35,7 @@ Project Organization
     │
     └── requirements.txt   <- requirements file for reproducing the analysis environment, e.g.
                             generated with `pip freeze > requirements.txt`
+
+Contribute
+------------
+If you'd like to contribute to Yellow Pages, check out https://github.com/fnkhairudin/Permeability-Reservoir-Rock-Prediction
