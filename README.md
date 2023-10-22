@@ -23,7 +23,6 @@ Dataset can be access through this link: [dataset](https://github.com/Divyanshu-
 
 Project Organization
 ------------
-    ├── README.md          <- brief explanation about the project
     ├── data               <- dataset for modeling
     │
     ├── model              <- final model
@@ -33,6 +32,8 @@ Project Organization
     │                         
     ├── reports            <- images
     │
+    ├── app.py             <- streamlit web app source code
+    ├── README.md          <- brief explanation about the project
     └── requirements.txt   <- requirements file for reproducing the analysis environment, e.g.
                             generated with `pip freeze > requirements.txt`
 
